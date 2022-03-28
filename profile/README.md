@@ -1,12 +1,6 @@
-#
+<h1 align="center">SycerNetwork Inc.</h1>
+<img src="https://raw.githubusercontent.com/SycerNetwork-Inc/.github/Member/profile/Sycer%20(1).png" />
+<p align="center">Small OpenSorce projects and distribution for the common good to the invention of alternatives to use</p>
+<p align="center">โครงการ OpenSorce ขนาดเล็กๆ และการแจกจ่ายเพื่อประโยชน์ส่วนรวม ถึงการคิดค้นทางเลือกใช้งาน</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center"> <img src="https://count.getloli.com/get/@SycerNetwork-Inc?theme=rule34" alt="ohshit" /> </p>
